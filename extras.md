@@ -9,5 +9,3 @@
 <li>Standard Notes App: https://standardnotes.org/</li>
 <li>VLC: https://www.videolan.org/vlc/</li>
 <li>VS Code: https://code.visualstudio.com</li>
-
-https://code.visualstudio.com    
