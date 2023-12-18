@@ -1,11 +1,11 @@
 <h2>Favorite Open Source</h2>
 
-<li>Bitwarden: https://bitwarden.com/</li>
-<li>Proton.me: https://proton.me/</li>
-<li>Brave Browser: https://brave.com/</li>
-<li>Mozilla: https://www.mozilla.org/</li>
-<li>Signal Messenger: https://signal.org/</li>
-<li>Telegram Messenger: https://telegram.org/</li>
-<li>Standard Notes App: https://standardnotes.org/</li>
-<li>VLC: https://www.videolan.org/vlc/</li>
-<li>VS Code: https://code.visualstudio.com</li>
+Bitwarden: https://bitwarden.com/
+Proton.me: https://proton.me/
+Brave Browser: https://brave.com/
+Mozilla: https://www.mozilla.org/
+Signal Messenger: https://signal.org/
+Telegram Messenger: https://telegram.org/
+Standard Notes App: https://standardnotes.org/
+VLC: https://www.videolan.org/vlc/
+VS Code: https://code.visualstudio.com
