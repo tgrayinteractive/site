@@ -5,3 +5,7 @@ Disallow: /
 User-agent: Google-Extended
 
 Disallow: /
+
+User-agent: Bingbot
+
+Disallow: /
