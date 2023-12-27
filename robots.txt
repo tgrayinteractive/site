@@ -1,59 +1,54 @@
 User-agent: GPTBot
-
 Disallow: /
 
 
 User-agent: Google-Extended
-
 Disallow: /
 
 
 User-agent: Baiduspider
-
 Disallow: /
 
 
 User-agent: Bingbot
-
 Disallow: /
 
 
 User-agent: msnbot
-
 Disallow: /
 
 
 User-agent: Googlebot
-
 Disallow: /
 
 
 User-agent: adidxbot
-
 Disallow: /
 
 
 User-agent: Mediapartners-Google
-
 Disallow: /
 
 
 User-agent: AdsBot-Google
-
 Disallow: /
 
 
 User-agent: Twitterbot
+Disallow: /
 
+
+User-agent: FacebookBot
+Disallow: /
+
+
+User-agent: facebookexternalhit
 Disallow: /
 
 
 User-agent: slurp
-
 Disallow: /
 
 
 User-agent: yandex
-
 Disallow: /
-
