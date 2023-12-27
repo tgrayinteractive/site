@@ -9,3 +9,7 @@ Disallow: /
 User-agent: Bingbot
 
 Disallow: /
+
+User-agent: Twitterbot
+
+Disallow: /
