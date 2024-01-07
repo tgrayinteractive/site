@@ -1,4 +1,4 @@
-## Favorite Open Source
+# Favorite Open Source
 
 - [Bitwarden](https://bitwarden.com/)
 - [Proton.me](https://proton.me/)
