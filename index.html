@@ -61,9 +61,9 @@
       display: block;
     }
 
-    /* ul {
+    ul {
       margin-bottom: 84px;
-    } */
+    }
 
     p {
       display: block;
@@ -75,25 +75,14 @@
       clear: both;
     }
 
-    /* a,
+    a,
     a:active,
     a:visited {
       color: #7700FF;
-    } */
-
-    ul>li a,
-        a:active,
-        a:visited {
-        color: #7700FF;
-
     }
 
-    /* a:hover {
+    a:hover {
       background-color: #E4CCFF;
-    } */
-
-    ul> li a:hover {
-        background-color: #E4CCFF;
     }
 
     ul>li a {
@@ -118,35 +107,21 @@
       color: #545454;
     }
 
-    div.icons {
-        display: inline-flex;
-        align-items: center;
-        gap: 5px;
-    }
-
     @media (prefers-color-scheme: dark) {
       body {
         background: #020005;
         color: #FCFAFF;
       }
 
-      /* a,
+      a,
       a:active,
       a:visited {
         color: #E4CCFF;
-      } */
-
-      ul>li a,
-        a:active,
-        a:visited {
-        color: #E4CCFF;
-
       }
 
-      
-      ul> li a:hover {
+      a:hover {
         background-color: #7700FF;
-    }
+      }
 
       ul>li a span {
         color: #FCFAFF;
@@ -160,35 +135,7 @@
         background-color: #7700FF;
       }
 
-      div.icons svg path#lb1 {
-        fill: #E4CCFF;
-      }
-
-      div.icons svg path#lb2 {
-        fill: #E4CCFF;
-      }
-
-      div.icons svg path#lb3 {
-        fill: #E4CCFF;
-      }
-
-      div.icons svg path#overlap1 {
-        fill: #020005;
-      }
-      
-      div.icons svg path#overlap2 {
-        fill: #020005;
-      }
-
-      div.icons svg path#bc {
-        fill: #E4CCFF;
-      }
-
-      div.icons svg path#bsky {
-        fill: #E4CCFF;
-      }
     }
-
 
     @media (prefers-color-scheme: light) {
       body {
@@ -196,20 +143,13 @@
         color: #020005;
       }
 
-      /* a,
+      a,
       a:active,
       a:visited {
         color: #7700FF;
-      } */
-       
-      ul>li a,
-        a:active,
-        a:visited {
-        color: #7700FF;
-
       }
 
-      ul>li a:hover {
+      a:hover {
         background-color: #E4CCFF;
       }
 
@@ -224,8 +164,6 @@
       span.footer em:hover {
         background-color: #E4CCFF;
       }
-      
-
     }
   </style>
   <section class="main">
@@ -239,31 +177,6 @@
       <li><a href="https://www.behance.net/tylahgray5cc4?locale=en_US target="_blank"><em>My Student Work</em><span>A very outdated Behance profile</span></a></li>
       <li><span class="footer">This site does not collect your data</span></a></li>
     </ul>
-    <div class="icons">
-        <a href="https://letterboxd.com/tylergray/"><svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none">
-            <path id="lb1" d="M17.9998 23.04C20.7864 23.04 23.0454 20.7835 23.0454 18C23.0454 15.2165 20.7864 12.96 17.9998 12.96C15.2131 12.96 12.9541 15.2165 12.9541 18C12.9541 20.7835 15.2131 23.04 17.9998 23.04Z" fill="#7700FF"/>
-            <mask id="mask0_1_272" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="22" y="12" width="10" height="12">
-              <path d="M31.6078 12.96H22.2588V23.1439H31.6078V12.96Z" fill="white"/>
-            </mask>
-            <g mask="url(#mask0_1_272)">
-              <path id="lb2" d="M26.5623 23.04C29.3489 23.04 31.6079 20.7835 31.6079 18C31.6079 15.2165 29.3489 12.96 26.5623 12.96C23.7756 12.96 21.5166 15.2165 21.5166 18C21.5166 20.7835 23.7756 23.04 26.5623 23.04Z" fill="#7700FF"/>
-            </g>
-            <mask id="mask1_1_272" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="4" y="12" width="10" height="12">
-              <path d="M13.7406 12.96H4.3916V23.1439H13.7406V12.96Z" fill="white"/>
-            </mask>
-            <g mask="url(#mask1_1_272)">
-              <path id="lb3" d="M9.43726 23.04C12.2239 23.04 14.4829 20.7835 14.4829 18C14.4829 15.2165 12.2239 12.96 9.43726 12.96C6.65062 12.96 4.3916 15.2165 4.3916 18C4.3916 20.7835 6.65062 23.04 9.43726 23.04Z" fill="#7700FF"/>
-            </g>
-            <path id="overlap1" fill-rule="evenodd" clip-rule="evenodd" d="M13.7186 20.6685C13.2341 19.8947 12.9541 18.98 12.9541 18C12.9541 17.02 13.2341 16.1053 13.7186 15.3315C14.2031 16.1053 14.4831 17.02 14.4831 18C14.4831 18.98 14.2031 19.8947 13.7186 20.6685Z" fill="#FCFAFF"/>
-            <path id="overlap2" clip-rule="evenodd" d="M22.2811 15.3315C22.7656 16.1053 23.0456 17.02 23.0456 18C23.0456 18.98 22.7656 19.8947 22.2811 20.6685C21.7966 19.8947 21.5166 18.98 21.5166 18C21.5166 17.02 21.7966 16.1053 22.2811 15.3315Z" fill="#FCFAFF"/>
-          </svg></a>
-          <a href="https://bandcamp.com/tylergray"><svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none">
-            <path id="bc" d="M14.4844 12.2344L27.6328 12.3047L21.5156 23.625H8.40234L14.4844 12.2344Z" fill="#7700FF"/>
-          </svg></a>
-          <a href="https://bsky.app/profile/sharetoomuch.com"><svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none">
-            <path id="bsky" d="M12.528 10.698C14.7287 12.3477 17.0958 15.6926 17.9649 17.4876C18.834 15.6927 21.201 12.3477 23.4018 10.698C24.9897 9.50767 27.5625 8.58665 27.5625 11.5174C27.5625 12.1027 27.2264 16.4343 27.0293 17.1375C26.3441 19.5824 23.8474 20.2059 21.6265 19.8285C25.5086 20.4882 26.4961 22.6735 24.3634 24.8588C20.3129 29.009 18.5416 23.8174 18.0875 22.4872C18.0043 22.2433 17.9654 22.1292 17.9648 22.2262C17.9643 22.1292 17.9253 22.2433 17.8421 22.4872C17.3883 23.8174 15.617 29.0091 11.5663 24.8588C9.43351 22.6735 10.421 20.4881 14.3032 19.8285C12.0822 20.2059 9.58545 19.5824 8.90038 17.1375C8.70326 16.4342 8.36719 12.1026 8.36719 11.5174C8.36719 8.58665 10.9401 9.50767 12.5279 10.698H12.528Z" fill="#7700FF"/>
-          </svg></a>
-    </div>
   </section>
 </body>
 
