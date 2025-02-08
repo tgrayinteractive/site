@@ -6,7 +6,6 @@
 - [Mozilla](https://mozilla.org/)
 - [Brave](https://brave.com/)
 - [Signal Messenger](https://signal.org/)
-- [Telegram Messenger](https://telegram.org/)
 - [Standard Notes App](https://standardnotes.org/)
 - [VLC](https://www.videolan.org/vlc/)
 - [VS Code](https://code.visualstudio.com/)
