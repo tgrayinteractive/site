@@ -1,7 +1,6 @@
 # Favorite Open Source
 
 - [Bitwarden](https://bitwarden.com/)
-- [Proton.me](https://proton.me/)
 - [MEGA](https://mega.nz/)
 - [Brave](https://brave.com/)
 - [Mozilla](https://mozilla.org/)
